@@ -38,7 +38,7 @@ export default function Home() {
           DB Fans
           <a
             className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://www.google.com?query=67"
+            href="https://www.docs.google.com"
             target="_blank"
             rel="noopener noreferrer"
           >
